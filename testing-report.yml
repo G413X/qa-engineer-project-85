@@ -505,7 +505,7 @@
 
 - summary: |
     Проверка кроссбраузерности: Gnome Web
-  status: pass
+  status: fail
 
 - summary: |
     Проверка кроссбраузерности: Yandex Browser
