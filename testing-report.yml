@@ -521,7 +521,7 @@
 
 - summary: |
     Проверка мобильной версии
-  status: pass
+  status: fail
 
 - summary: |
     Проверка сайта на безопасность
